@@ -1,4 +1,5 @@
 # Project Title: 8-bit Counter System with Display and TTL Interface
+![Uploading 1.jpg…]()
 
 ## Overview
 
